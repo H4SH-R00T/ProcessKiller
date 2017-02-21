@@ -1,0 +1,11 @@
+D:\CASPO\Programming\General\DOT.NET\Projects\ProcessKiller\ProcessKiller\bin\Debug\ProcessKiller.exe.config
+D:\CASPO\Programming\General\DOT.NET\Projects\ProcessKiller\ProcessKiller\bin\Debug\ProcessKiller.exe
+D:\CASPO\Programming\General\DOT.NET\Projects\ProcessKiller\ProcessKiller\bin\Debug\ProcessKiller.pdb
+D:\CASPO\Programming\General\DOT.NET\Projects\ProcessKiller\ProcessKiller\bin\Debug\ProcessKiller.xml
+D:\CASPO\Programming\General\DOT.NET\Projects\ProcessKiller\ProcessKiller\obj\Debug\ProcessKiller.vbprojResolveAssemblyReference.cache
+D:\CASPO\Programming\General\DOT.NET\Projects\ProcessKiller\ProcessKiller\obj\Debug\ProcessKiller.Form1.resources
+D:\CASPO\Programming\General\DOT.NET\Projects\ProcessKiller\ProcessKiller\obj\Debug\ProcessKiller.Resources.resources
+D:\CASPO\Programming\General\DOT.NET\Projects\ProcessKiller\ProcessKiller\obj\Debug\ProcessKiller.vbproj.GenerateResource.Cache
+D:\CASPO\Programming\General\DOT.NET\Projects\ProcessKiller\ProcessKiller\obj\Debug\ProcessKiller.exe
+D:\CASPO\Programming\General\DOT.NET\Projects\ProcessKiller\ProcessKiller\obj\Debug\ProcessKiller.xml
+D:\CASPO\Programming\General\DOT.NET\Projects\ProcessKiller\ProcessKiller\obj\Debug\ProcessKiller.pdb
